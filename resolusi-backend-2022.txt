@@ -1,0 +1,98 @@
+- Dasar dasar front-end
+    html
+    css
+    javascript
+
+- Pilih salah satu bahasa pemograman backend
+    javascript
+    golang
+    php
+    python
+    
+- Basic pemograman
+    paradigma procedural
+    object oriented programming
+    functional programming
+    
+- Database
+    mySQL
+    noSQL
+    
+- Project sederhana
+    todo list
+    CRUD (create, read, update & delete)
+    login & register system
+    
+- Pilih framework & package manager
+  Framework:
+    express js
+    django
+    GIN
+    laravel
+    
+   Package manager:
+    npm
+    composer
+    maven
+    pypi
+    
+- Project selanjutnya
+    clonning app
+    bikin package
+    
+- Konsep database
+    database design 
+    SQL lang (DDL, DML, DCL)
+    object relational mapping
+    
+- Server
+    nginx
+    apache
+    microsoft
+    
+- Hosting provider
+    heroku
+    github
+    firebase
+    
+- Cloud service provider
+    AWS
+    google cloud
+    microsoft azure
+    
+- API
+    REST api
+    json
+    autentikasi (basic auth, token auth, oAuth, json web token)
+- Dokumentasi API
+- Konsep programming lanjutan
+    algoritma dan data structure
+    metode pengembangan perangkat lunak
+    
+- Web security
+    hashing and encryption
+    HTTPS
+    SSL
+    CORS
+    CSP
+    
+- Testing
+    integration testing
+    unit testing
+    fucntional testing
+    
+- CI/CD pipeline
+- GraphQL
+- Search engine
+- Message broker
+- Virtualization
+    docker
+    kubernetes
+    
+- Web socket
+- Scalability
+- KEEP LEARNING & STAY HUNGRY
+
+
+apa artinya usaha dan karya-karya kreatif kita jika kematian mengakhiri segalnya, pilihanmu ingin dikenang sebagai apa?!
+~by GALANTIXA 
