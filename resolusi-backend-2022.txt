@@ -5,8 +5,6 @@
 
 - Pilih salah satu bahasa pemograman backend
     javascript
-    golang
-    php
     python
     
 - Basic pemograman
@@ -16,7 +14,6 @@
     
 - Database
     mySQL
-    noSQL
     
 - Project sederhana
     todo list
