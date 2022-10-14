@@ -1,3 +1,11 @@
+- Apa itu internet? dan cara kerjanya!
+    http
+    dns
+    
+- OS & Linux
+    terminal comand
+    install language
+    
 - Dasar dasar front-end
     html
     css
@@ -11,6 +19,10 @@
     paradigma procedural
     object oriented programming
     functional programming
+    
+- Git & github
+    version control system
+    repositori
     
 - Database
     mySQL
